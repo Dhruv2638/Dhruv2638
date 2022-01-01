@@ -1,3 +1,5 @@
+[<img src="./https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif" alt="Hi, I amHarshil">](https://github.com/harshil-270/)
+
 <h1 align="center">Hi 👋, I'm Dhruv Nagar</h1>
 <h3 align="center">I am Dhruv Nagar, a pre-final year CSE student at Charotar University. I am a problem solver and full stack web developer.</h3>
 
