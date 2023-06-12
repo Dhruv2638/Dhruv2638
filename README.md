@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Dhruv Nagar</h1>
+<h1 align="center">Hi 👋, I'm DhruvKumar Nagar</h1>
 <h3 align="center">I am Dhruv Nagar, a pre-final year CSE student at Charotar University. I am a problem solver and full stack web developer.</h3>
 
 - 🌱 I’m currently learning **Everything**
